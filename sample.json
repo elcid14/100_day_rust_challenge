@@ -1,0 +1,20 @@
+[
+    {
+        "name": "twitter",
+        "symbol": "twt",
+        "price": 45.000,
+        "total_valuation": 4000000000.000
+    },
+    {
+        "name": "meta",
+        "symbol": "mta",
+        "price": 99.999,
+        "total_valuation": 9647832999.545
+    },
+    {
+        "name": "twitter",
+        "symbol": "twt",
+        "price": 45.000,
+        "total_valuation": 4000000000.000
+    }
+]
