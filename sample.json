@@ -1,20 +1,20 @@
 [
-    {
-        "name": "twitter",
-        "symbol": "twt",
-        "price": 45.000,
-        "total_valuation": 4000000000.000
-    },
-    {
-        "name": "meta",
-        "symbol": "mta",
-        "price": 99.999,
-        "total_valuation": 9647832999.545
-    },
-    {
-        "name": "twitter",
-        "symbol": "twt",
-        "price": 45.000,
-        "total_valuation": 4000000000.000
-    }
+  {
+    "name": "apple",
+    "symbol": "APPL",
+    "price": 45.0,
+    "total_valuation": 4000000000.0
+  },
+  {
+    "name": "meta",
+    "symbol": "META",
+    "price": 99.999,
+    "total_valuation": 9647832999.545
+  },
+  {
+    "name": "google",
+    "symbol": "GOOG",
+    "price": 45.0,
+    "total_valuation": 4000000000.0
+  }
 ]

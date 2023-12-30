@@ -1,0 +1,20 @@
+[
+    {
+      "name": "apple",
+      "symbol": "appl",
+      "price": 45.0,
+      "total_valuation": 4000000000.0
+    },
+    {
+      "name": "meta",
+      "symbol": "meta",
+      "price": 99.999,
+      "total_valuation": 9647832999.545
+    },
+    {
+      "name": "google",
+      "symbol": "goog",
+      "price": 45.0,
+      "total_valuation": 4000000000.0
+    }
+  ]
