@@ -1,5 +1,5 @@
 # Description
 
-- Recieve HTTP request
-- Based on HTTP request type invoke correct function
-- Each function per request type returns different cusom enum for Result | Error type.
+- Send HTTP Request and show comptency using the reqwest library.
+- Return a custom Result and Error type for the reqwest function.
+
